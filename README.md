@@ -1,5 +1,7 @@
-#Real-Time Event Ticketing System - Java CLI
+Real-Time Event Ticketing System - Java CLI
+
 Overview
+
 This project implements a Real-Time Event Ticketing System with a Producer-Consumer pattern using Java. The system simulates ticket releases and purchases, handling concurrency in a multi-threaded environment. It offers features like system configuration via a CLI, data integrity management, and basic reporting functionality.
 
 The project is designed to help understand concurrency, multithreading, and core concepts related to ticketing systems, which include managing event ticket release rates, purchases, and maximum ticket capacity.
